@@ -8251,7 +8251,7 @@ p.toString
 J.oe(p).A(0,o)}E.a1e(new V.N6(q),q)
 E.afh(new V.Sa())
 V.afZ(new F.UM(P.r(t.S,t.BV)))
-E.ahZ(H.a([E.aid("resume/assets/no_sleep.js","wakelock_web")],t.s))
+E.ahZ(H.a([E.aid("resume/assets/packages/wakelock_web/assets/no_sleep.js","wakelock_web")],t.s))
 $.a85=n.gRa()
 s=2
 return P.a0(P.ak2(),$async$a_n)
