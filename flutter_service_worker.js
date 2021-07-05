@@ -7,7 +7,7 @@ const RESOURCES = {
 "resume/assets/FontManifest.json": "71a4a82de411f155107da3f8dac64ebd",
 "resume/assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "resume/assets/NOTICES": "5d442ad820fc24c7047efdcf98ee75eb",
-"resume/assets/packages/cupertino_icons/resume/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"resume/assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "resume/assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_AMS-Regular.ttf": "657a5353a553777e270827bd1630e467",
 "resume/assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Caligraphic-Bold.ttf": "a9c8e437146ef63fcd6fae7cf65ca859",
 "resume/assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Caligraphic-Regular.ttf": "7ec92adfa4fe03eb8e9bfb60813df1fa",
